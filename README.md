@@ -1,6 +1,6 @@
 # Moddable Platformer
 
-This project is a simple game created by [Endless Access]([url](https://access.endlessstudios.com) to help ease the learning curve into collaborative game design and development. 
+This project is a simple game created by [Endless Access](https://access.endlessstudios.com) to help ease the learning curve into collaborative game design and development. 
 It is intended to be used as practice content for learning Git and GitHub collaboration.
 
 
