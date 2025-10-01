@@ -1,14 +1,8 @@
 # Moddable Platformer
 
-This mini moddable game project by [Endless OS
-Foundation](https://endlessos.org) is intended to help ease the learning curve
-into Godot.
+This project is a simple game created by [Endless Access](https://access.endlessstudios.com) to help ease the learning curve into collaborative game design and development. 
+It is intended to be used as practice content for learning Git and GitHub collaboration.
 
-This sample project allows learners to engage with game creation concepts,
-applying various modifications to the game itself, all without reading or
-writing any code.
-
-The `doc/MODS.md` file details the mods that have been made available.
 
 ## Contributing
 
