@@ -1,10 +1,11 @@
-[gd_scene load_steps=17 format=4 uid="uid://dhcpt1kt8cs0g"]
+[gd_scene load_steps=18 format=4 uid="uid://dhcpt1kt8cs0g"]
 
 [ext_resource type="PackedScene" uid="uid://8st4scqt06l8" path="res://components/player/player.tscn" id="2_7yl00"]
 [ext_resource type="TileSet" uid="uid://bmkax0b814rmy" path="res://spaces/tileset-a.tres" id="2_ycdy4"]
 [ext_resource type="PackedScene" uid="uid://cswheshouik14" path="res://rules_goals/game_logic.tscn" id="3_xbkvd"]
 [ext_resource type="PackedScene" uid="uid://dthyncc3spfks" path="res://spaces/dangerzone.tscn" id="4_2mg6t"]
 [ext_resource type="PackedScene" uid="uid://daf24t18h3n5e" path="res://components/coin/coin.tscn" id="5_u7hr5"]
+[ext_resource type="Texture2D" uid="uid://d3um1i1lgu153" path="res://assets/heart.png" id="5_w48qg"]
 [ext_resource type="PackedScene" uid="uid://jt80gv02u4f2" path="res://hud.tscn" id="6_mp7wy"]
 [ext_resource type="Texture2D" uid="uid://la84y8l54pq0" path="res://assets/Books_1.png" id="7_w48qg"]
 [ext_resource type="SpriteFrames" uid="uid://dplbg6dq1mrjg" path="res://components/player/inkdrinker.tres" id="9_ycdy4"]
@@ -112,7 +113,7 @@ texture = ExtResource("7_w48qg")
 [node name="Book3" parent="Books" instance=ExtResource("5_u7hr5")]
 position = Vector2(129, -1969)
 scale = Vector2(1.5, 1.5)
-texture = ExtResource("7_w48qg")
+texture = ExtResource("5_w48qg")
 
 [node name="Book4" parent="Books" instance=ExtResource("5_u7hr5")]
 position = Vector2(1405, -2949)
