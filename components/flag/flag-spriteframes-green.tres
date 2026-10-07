@@ -1,4 +1,4 @@
-[gd_resource type="SpriteFrames" load_steps=4 format=3 uid="uid://b3orjhfv6eeud"]
+[gd_resource type="SpriteFrames" format=3 uid="uid://b3orjhfv6eeud"]
 
 [ext_resource type="Texture2D" uid="uid://bwqhhtm1mdivu" path="res://assets/flag.png" id="1_v2slk"]
 
@@ -16,7 +16,7 @@ animations = [{
 "duration": 1.0,
 "texture": SubResource("AtlasTexture_7rj5q")
 }],
-"loop": true,
+"loop": 1,
 "name": &"down",
 "speed": 5.0
 }, {
@@ -24,7 +24,7 @@ animations = [{
 "duration": 1.0,
 "texture": SubResource("AtlasTexture_wqhmt")
 }],
-"loop": true,
+"loop": 1,
 "name": &"up",
 "speed": 5.0
 }]
